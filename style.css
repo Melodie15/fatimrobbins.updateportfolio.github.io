@@ -1,0 +1,64 @@
+* {
+    background-color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.wrapper {
+    background-color: white;
+    width: 50%;
+    height: 300px;
+    margin: 30px;
+    border-width: 1em;
+    align-content: center;
+
+}
+
+.nav {
+    background-color: white;
+    color: lightgray;
+    padding: 10px;
+
+}
+
+
+.title {
+    background-color: rgb(13, 168, 129);
+    color: white;
+    height: 70px;
+    width: 70%;
+    padding: 10px
+    font-size: 60px;
+    text-align: center;
+    font-weight: bold;
+  
+}
+
+p {
+    color: rgb(13, 168, 129);
+    
+}
+
+.titles {
+    color: rgb(13, 168, 129);
+}
+.about {
+    width: 50%;
+    height: 600px;
+}
+.image {
+    position: relative;
+    padding: 20px;
+    size: 50%;
+}
+.game {
+    position: absolute;
+    background-color: rgb(13, 168, 129);
+    height: 30px;
+    width: 55%;
+    text-align: center;
+    size: 50%;
+ 
+}
+.responsive {
+    width: 60%;
+    height: auto;
+}
