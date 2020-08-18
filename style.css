@@ -46,14 +46,14 @@ p {
 }
 .image {
     position: relative;
-    padding: 60px;
-    size: 40%;
+    padding: 50px;
+    size: 70%;
 }
 .game {
     position: absolute;
-    background-color: rgb(13, 168, 129);
+    /* background-color: rgb(13, 168, 129); */
     height: 50px;
-    width: 50%;
+    width: 77%;
     text-align: left;
     size: 50%;
  
